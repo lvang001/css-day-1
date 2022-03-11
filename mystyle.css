@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+  }
+  #firstPara {
+      font-weight: 700;
+  }
+  .firstDiv {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 16px;
+
+  }
+  Table, td {
+      font-family:'Courier New', Courier, monospace;
+      font-size: 16px;
+      border: 1px solid
+  }
+  table #rowOne {
+      background-color:plum;
+  }
+  table #rowTwo {
+      background-color:gainsboro;
+  }
+  table #rowThree {
+    background-color:gainsboro;
+  }
